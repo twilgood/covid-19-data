@@ -1,4 +1,4 @@
-# Coronavirus (Covid-19) Data in the United States (Archived)
+# Coronavirus (Covid-19) Data in the United States
 
 **March 24, 2023 UPDATE: The data for daily cases and deaths will no longer be updated. The Times has updated its [Covid tracking pages]([url](https://www.nytimes.com/interactive/2023/us/covid-cases.html)) to use data from the federal government for cases and deaths. This GitHub repo will serve as an archive of the virus data reporting from The Times since 2020. For more information about this change, please see [this story](https://www.nytimes.com/2023/03/22/us/covid-data-cdc.html).**
 
